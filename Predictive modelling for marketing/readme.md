@@ -52,6 +52,7 @@ Correlated features were removed to incirease simplicity (with less variable as 
 
 Ex: Feature A is correlated with Feature B. However, Feature A is more important to predict target variable. Therefore, feature B is removed.
 
+![correlated_features](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/corr.png)
 
 ## Feature selection
 
