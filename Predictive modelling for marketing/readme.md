@@ -37,7 +37,9 @@ I'm using customer data of a certain retail chain, which sells different product
 * Z_Revenue: revenue if accepting campaign
 * DepVar: Target variable - if accepted promotional campaign or not
 
-## Outlier detection
+## Data cleansing & Outlier detection
+
+Missing values were treated by using imputation technique. We are using imputation in order to 1) Not to lose relevant observations and 2) Not to change original data distribution. Therefore, I used median imputation for interval data and mode imputation for categorical data.
 
 Outliers were identified and removed based on two-step approach: 1) Identify features with very uncommon observations via [interquartile range method (IQR)](https://online.stat.psu.edu/stat200/lesson/3/3.2) method, which was scripted in _detect_outliers_ function and 2) For each feature with uncommon observations we create scatterplots to visualize the data and decide on outliers. Based on this method 82 outliers were identified and removed from dataset.
 
