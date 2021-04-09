@@ -11,11 +11,8 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 
 ![Predictive modelling for marketing](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/cover.jpg)
 
-• Used machine learning model (Hybrid Gradient Boosting) to predict customer acceptance of promotional campaign
-• Explored the data and removed outliers (IQR method and visualization)
-• Identified and removed correlated features based on mixed approach (Spearman correlation matrix and Chi-Square independence test)
-• Performed feature selection via Extra Trees algorithm
-• *Keywords* feature selection via Extra Trees algorithm
-
-
-
+* Used machine learning model (Hybrid Gradient Boosting) to predict customer acceptance of promotional campaign
+* Data explore and outlier detection (IQR method and visualization)
+* Identified and removed correlated features based on mixed approach (Spearman correlation matrix and Chi-Square independence test)
+* Performed feature selection via Extra Trees algorithm
+##### Keywords()
