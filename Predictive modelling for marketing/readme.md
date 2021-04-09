@@ -68,7 +68,7 @@ Feature selection was done for the purposes of dimensionality reduction. It was 
 Here you can see the top15 of features and its respective importance while predicting target variable (if customer accepted promotional campaign):
 For example, Recency is very important when predicting target variable. We can interpret it as customer activity pattern (if he/she made any purchase recently) is a very good predictor of promotional campaign acceptance.
 
-![feature_selection](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/feature_selection.PNG)
+<img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/feature_selection.PNG" width="500">
 
 ## Train Gradient Boosting model
 
