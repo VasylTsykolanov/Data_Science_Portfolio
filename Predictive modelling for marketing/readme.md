@@ -63,6 +63,14 @@ Here you can see Spearman correlation matrix:
 Feature selection was done for the purposes of dimensionality reduction. It was used [Extra Trees](https://medium.com/@namanbhandari/extratreesclassifier-8e7fc0502c7) algorithm, which is ensemble learning method fundamentally based on decision trees. 
 
 
+Here you can see the top15 of features, which are the most important to predict the target variable (if customer accepted promotional campaign):
+For example, Recency is very important when predicting target variable. We can interpret it as customer activity pattern (if he/she made any purchase recently) is a very good predictor of promotional campaign acceptance.
+
+![feature_selection](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/feature_selection.PNG)
+
+
+
+
 
 
 
