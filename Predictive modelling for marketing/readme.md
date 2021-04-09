@@ -1,6 +1,6 @@
 # Predictive modelling for marketing
 
-The main goal of this project is to develop machine learning model to predict customer acceptence of promotional campaign. The data set is composed by several features of socio-demographic, firmographic and promotional nature. In the notebook you can find end-to-end development process, where I'm going through data exploration & cleansing (outlier identification), enrichemnt (creation of new features), feature selection and last but not the least predictive modelling.
+The main goal of this project is to develop machine learning model to predict customer acceptence of promotional campaign. The data set is composed by several features of socio-demographic, RFM and promotional nature. In the notebook you can find end-to-end development process, where I'm going through data exploration & cleansing (outlier identification), enrichemnt (creation of new features), feature selection and last but not the least predictive modelling.
 
 ## Data
 
