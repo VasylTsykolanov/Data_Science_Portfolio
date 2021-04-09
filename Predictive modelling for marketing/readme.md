@@ -70,7 +70,13 @@ For example, Recency is very important when predicting target variable. We can i
 
 ## Train Gradient Boosting model
 
-Finnaly, Gradient Bossting model was trained. In order to train ML model, hyperparameter tunning was used, where the goal is to find the best possible combinations of parameters for ML algorithm, which would maximaze the accuracy of our model. In this case, learning rate (learning_rate), the number of boosting stages to perform (n_estimators) and  number of terminal nodes (max_depth).
+Finnaly, [Gradient Bossting](https://docs.paperspace.com/machine-learning/wiki/gradient-boosting) model was trained. It is a popular supervised machine learning technique for regression and classification problems that aggregates an ensemble of weak individual models to obtain a more accurate final model.
+
+Here you can see the highlevel training process:
+
+![Gradient](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/akira-ai-gradient-boosting-ml-technique.png)
+
+In order to train ML model, hyperparameter tunning was used, where the goal is to find the best possible combinations of parameters for ML algorithm, which would maximaze the accuracy of our model. In this case, learning rate (learning_rate), the number of boosting stages to perform (n_estimators) and  number of terminal nodes (max_depth).
 
 It was possible to achieve the model accuracy of _94.7%_.
 
