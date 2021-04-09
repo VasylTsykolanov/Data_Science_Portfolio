@@ -80,7 +80,9 @@ In order to train ML model, hyperparameter tunning was used, where the goal is t
 
 It was possible to achieve the model accuracy of _94.7%_.
 
+## Future work
 
+The next step for this project would be to make the machine learning model available via API as a service. This service will not only include ML model but also functionalities of detecting & removing outliers, detection of correlated features detection and feature selection, which I developed during this project.
 
 
 
