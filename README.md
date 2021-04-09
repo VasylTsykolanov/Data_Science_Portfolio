@@ -8,3 +8,5 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 ## Projects:
 
 ### [Predictive modelling for marketing](https://github.com/VasylTsykolanov/Data_Science_Portfolio/tree/main/Predictive%20modelling%20for%20marketing)
+
+![Predictive modelling for marketing](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/cover.jpg)
