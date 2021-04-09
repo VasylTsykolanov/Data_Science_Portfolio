@@ -68,8 +68,11 @@ For example, Recency is very important when predicting target variable. We can i
 
 ![feature_selection](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/feature_selection.PNG)
 
+## Train Gradient Boosting model
 
+Finnaly, Gradient Bossting model was trained. In order to train ML model, hyperparameter tunning was used, where the goal is to find the best possible combinations of parameters for ML algorithm, which would maximaze the accuracy of our model. In this case, learning rate (learning_rate), the number of boosting stages to perform (n_estimators) and  number of terminal nodes (max_depth).
 
+It was possible to achieve the model accuracy of _94.7%_.
 
 
 
