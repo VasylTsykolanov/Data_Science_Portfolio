@@ -41,7 +41,7 @@ I'm using customer data of a certain retail chain, which sells different product
 
 Outliers were identified and removed based on two-step approach: 1) Identify features with very uncommon observations via [interquartile range method (IQR)](https://online.stat.psu.edu/stat200/lesson/3/3.2) method, which was scripted in _detect_outliers_ function and 2) For each feature with uncommon observations we create scatterplots to visualize the data and decide on outliers. Based on this method 82 outliers were identified and removed from dataset.
 
-![outlier detection](Predictive modelling for marketing/images/Outlier detection.PNG)
+![outlier detection](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/Outlier%20detection.PNG)
 
 ## Correlated features detection
 
