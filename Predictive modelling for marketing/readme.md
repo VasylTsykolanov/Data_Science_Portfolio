@@ -41,6 +41,8 @@ I'm using customer data of a certain retail chain, which sells different product
 
 Outliers were identified and removed based on two-step approach: 1) Identify features with very uncommon observations via [interquartile range method (IQR)](https://online.stat.psu.edu/stat200/lesson/3/3.2) method, which was scripted in _detect_outliers_ function and 2) For each feature with uncommon observations we create scatterplots to visualize the data and decide on outliers. Based on this method 82 outliers were identified and removed from dataset.
 
+Here you can visualize the process:
+
 ![outlier detection](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/Outlier%20detection.PNG)
 
 ## Correlated features detection
@@ -51,6 +53,8 @@ Correlated features were removed to incirease simplicity (with less variable as 
 2) Assess feature importance, when predicting target variable and remove correlated features, which does not have a very high importance when predicting target variable.
 
 Ex: Feature A is correlated with Feature B. However, Feature A is more important to predict target variable. Therefore, feature B is removed.
+
+Here you can see Spearman correlation matrix:
 
 ![correlated_features](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/corr.png)
 
