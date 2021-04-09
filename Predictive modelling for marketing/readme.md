@@ -58,9 +58,11 @@ Here you can see Spearman correlation matrix:
 
 ![correlated_features](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/corr.png)
 
-## Feature selection
+## Feature selection and machine learning model training
 
-Feature selection was done for the purposes of dimensionality reduction. For feature selection we used [ExtraTreesClassifier](https://medium.com/@namanbhandari/extratreesclassifier-8e7fc0502c7) , which is ensemble learning method fundamentally based on decision trees.
+Feature selection was done for the purposes of dimensionality reduction. It was used [Extra Trees](https://medium.com/@namanbhandari/extratreesclassifier-8e7fc0502c7) algorithm, which is ensemble learning method fundamentally based on decision trees. 
+
+
 
 
 
