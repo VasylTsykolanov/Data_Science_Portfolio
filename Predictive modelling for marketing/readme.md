@@ -1,6 +1,6 @@
 # Predictive modelling for marketing
 
-The main goal of this project is to develop machine learning model to predict customer acceptence of promotional campaign. The data set is composed by several features of socio-demographic, purchasing and promotional nature. In the notebook you can find end-to-end development process, where I'm going through data exploration & cleansing (outlier identification), enrichemnt (creation of new features), feature selection and last but not the least predictive modelling.
+The main goal of this project is to develop machine learning model to predict customer acceptance of promotional campaign. The dataset is composed by several features of socio-demographic, purchasing and promotional nature. In the notebook you can find end-to-end development process, where I'm going through data exploration & cleansing (outlier identification), enrichment (creation of new features), feature selection and last but not the least predictive modelling.
 
 ## Data
 
@@ -22,9 +22,9 @@ I'm using customer data of a certain retail chain, which sells different product
 * MntMagazines: spending on products of type magazines
 * MntScenario: spending on products of type scenario/decorations
 * MntBrandA_Material: spending on products of type Brand A Material
-* NumDealsPurchases: number of promotional deals while pruchasing products
+* NumDealsPurchases: number of promotional deals while purchasing products
 * NumWebPurchases: number of web purchases
-* NumCatalogPurchases: numer of purchases from catalog
+* NumCatalogPurchases: numer of purchases from catalogue
 * NumStorePurchases: nnumber of purchases from store
 * NumWebVisitsMonth: number of web visits per month
 * AcceptedCmp1: if accepted 1st promotional campaign
@@ -47,7 +47,7 @@ Here you can visualize the process:
 
 ## Correlated features detection
 
-Correlated features were removed to incirease simplicity (with less variable as possible but still highly accurate) of machine learning model. Two-fold apporach was taken to detect correlated features:
+Correlated features were removed to increase simplicity (with less variable as possible but still highly accurate) of machine learning model. Two-fold approach was taken to detect correlated features:
 
 1) Detect correlated features - [Spearman correlation matrix] (https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) to detect numerical correlated features and [Chi-Square test of independence] (https://en.wikipedia.org/wiki/Chi-squared_test) to detect categorical correlated features. The logic was embedded into function _detect_correlation_.
 2) Assess feature importance, when predicting target variable and remove correlated features, which does not have a very high importance when predicting target variable.
@@ -70,13 +70,13 @@ For example, Recency is very important when predicting target variable. We can i
 
 ## Train Gradient Boosting model
 
-Finnaly, [Gradient Bossting](https://docs.paperspace.com/machine-learning/wiki/gradient-boosting) model was trained. It is a popular supervised machine learning technique for regression and classification problems that aggregates an ensemble of weak individual models to obtain a more accurate final model.
+Finally, [Gradient Bossting](https://docs.paperspace.com/machine-learning/wiki/gradient-boosting) model was trained. It is a popular supervised machine learning technique for regression and classification problems that aggregates an ensemble of weak individual models to obtain a more accurate final model.
 
-Here you can see the highlevel training process:
+Here you can see the training process from high-level perspective:
 
 ![Gradient](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/akira-ai-gradient-boosting-ml-technique.png)
 
-In order to train ML model, hyperparameter tunning was used, where the goal is to find the best possible combinations of parameters for ML algorithm, which would maximaze the accuracy of our model. In this case, learning rate (learning_rate), the number of boosting stages to perform (n_estimators) and  number of terminal nodes (max_depth).
+In order to train ML model, hyperparameter tunning was used, where the goal is to find the best possible combinations of parameters for ML algorithm, which would maximize the accuracy of our model. In this case, learning rate (learning_rate), the number of boosting stages to perform (n_estimators) and  number of terminal nodes (max_depth).
 
 It was possible to achieve the model accuracy of _94.7%_.
 
