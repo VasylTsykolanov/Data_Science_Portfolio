@@ -13,4 +13,4 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 * Data explore and outlier detection (IQR method and visualization)
 * Identified and removed correlated features based on mixed approach (Spearman correlation matrix and Chi-Square independence test)
 * Performed feature selection via Extra Trees algorithm
-**Keywords**(Predictive modelling, Marketing, Outlier detection, Feature selection, Hybrid Gradient Boosting)
+* **Keywords**(Predictive modelling, Marketing, Outlier detection, Feature selection, Hybrid Gradient Boosting)
