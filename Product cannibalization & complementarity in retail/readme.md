@@ -1,7 +1,7 @@
 
 # Product cannibalization & complementarity in retail - under construction
 
-For retail companies it is of great importance to understand how their customers take purchase decisions. Complementarity of products is well-known classical case of applying data science in retail industry. However, it is of special interest to also measure customer propensity to switch from one product to another (product cannibalization) in situations when one product goes on promotion or lacks availability. This information have several benefits, namely 1) It can be used to improve demand forecasting accuracy, 2) To better understand products and CUSTOMER decisions, which will lead into 3) Increase of customer satisfaction. In the notebook I show how to calculate product cannibalization effect by using Apriori algorithm. Also, you will find how we can cluster products WITHOUT USING ANY master data.
+For retail companies it is of great importance to understand how their customers take purchase decisions. Complementarity of products is well-known classical case of applying data science in retail industry. However, it is of special interest to also measure customer propensity to switch from one product to another (product cannibalization) in situations when one product goes on promotion or lacks availability. This information have several benefits, namely 1) It can be used to improve demand forecasting accuracy, 2) To better understand products and customer decisions, which will lead into 3) Increase of customer satisfaction. In the notebook I show how to calculate product cannibalization effect by using Apriori algorithm. Also, you will find how we can cluster products WITHOUT USING ANY master data.
 
 ## Data
 
