@@ -9,6 +9,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 
 ## Projects:
 
+### [Product cannibalization & complementarity in retail](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Product%20cannibalization%20&%20complementarity%20in%20retail/readme.md)
+<img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Product%20cannibalization%20%26%20complementarity%20in%20retail/images/Premier-Foods-secures-key-bank-deal_wrbm_large.png" width="400">
+
+
+
 ### [Predictive modelling for marketing](https://github.com/VasylTsykolanov/Data_Science_Portfolio/tree/main/Predictive%20modelling%20for%20marketing)
 <img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predictive%20modelling%20for%20marketing/images/cover.jpg" width="400">
 
