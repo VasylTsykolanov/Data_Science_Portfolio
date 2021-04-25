@@ -12,8 +12,8 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 ### [Product cannibalization & complementarity in retail](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Product%20cannibalization%20&%20complementarity%20in%20retail/readme.md)
 <img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Product%20cannibalization%20%26%20complementarity%20in%20retail/images/Premier-Foods-secures-key-bank-deal_wrbm_large.png" width="400">
 
-* Used Apriori algorithm to detect product complementarity and cannibalization effects
-* Quiantified cannibalization effects between products by building new KPI - substitution score
+* Identified product cannibalization and complementarity effects
+* Quantified cannibalization effects between products by building new KPI - substitution score
 * Built hierarchical models to group similar products into clusters by using only transactional data
 * Built custom method to optimize the number of clusters
 * **Keywords**: Retail, Product cannibalization, product complementarity, Apriori, Hierarchical clustering
