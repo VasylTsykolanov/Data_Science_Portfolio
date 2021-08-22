@@ -9,6 +9,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 
 ## Projects:
 
+### [Electronic Products and Pricing Data](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Price%20positioning%20of%20electronic%20products/readme.md)
+<img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Price%20positioning%20of%20electronic%20products/images/MW-HN255_retail_ZG_20190712141139.jpg" width="400">
+
+
+
 ### [Product cannibalization & complementarity in retail](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Product%20cannibalization%20&%20complementarity%20in%20retail/readme.md)
 <img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Product%20cannibalization%20%26%20complementarity%20in%20retail/images/Premier-Foods-secures-key-bank-deal_wrbm_large.png" width="400">
 
