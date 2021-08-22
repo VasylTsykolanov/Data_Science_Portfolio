@@ -12,7 +12,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 ### [Electronic Products and Pricing Data](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Price%20positioning%20of%20electronic%20products/readme.md)
 <img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Price%20positioning%20of%20electronic%20products/images/MW-HN255_retail_ZG_20190712141139.jpg" width="400">
 
-* Identified how products characteristics affect pricing (e.g. brand, condition, category of product, etc.)
+* Identified how product characteristics affect pricing (e.g. brand, condition, category of product, etc.)
 * Enriched dataset based on several transformations of existing fields
 * Identified the most important characteristics to recommend price
 * Built machine learning models to recommend product price
