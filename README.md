@@ -9,6 +9,15 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/vasyltsykolanov) if 
 
 ## Projects:
 
+### [Predict fake news](https://github.com/VasylTsykolanov/Data_Science_Portfolio/tree/main/Predict%20Fake%20or%20True%20news#readme)
+<img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Predict%20Fake%20or%20True%20news/Insta%20Fake%20News.png" width="400">
+
+* Explored text data and identified outliers, stop words and strange characters in text data
+* Analyzed text semantics with aim to observe differences between fake and real news
+* Developed ML models to detect fake news
+* Proposed simple method to identify fake news
+* **Keywords**: Fake news, text mining, NLP, TD-IDF
+
 ### [Electronic Products and Pricing Data](https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Price%20positioning%20of%20electronic%20products/readme.md)
 <img src="https://github.com/VasylTsykolanov/Data_Science_Portfolio/blob/main/Price%20positioning%20of%20electronic%20products/images/MW-HN255_retail_ZG_20190712141139.jpg" width="400">
 
